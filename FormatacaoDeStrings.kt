@@ -7,7 +7,6 @@ fun main() {
     
     println("Slug gerado para o livro:")
     println("${slugTitulo}_${slugAutor}")
-    //TODO ("Formatar/Imprimir as slugs considerando o padrão de saída deste desafio.")
 }
 
 fun String.generateSlug(): String {
