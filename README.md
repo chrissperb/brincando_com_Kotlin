@@ -1,5 +1,5 @@
 # brincando_com_Kotlin
-Neste repositório estou colocando alguns pequenos projetos criados para testar funções Kotlin durante o bootcamp Backend com Kotlin da Dio.me. 
+Neste repositório estou colocando alguns pequenos projetos criados para testar funções Kotlin durante o bootcamp Backend com Kotlin da [@Dio.me](https://www.github.com/digitalinnovationone) . 
 
 
 ## Mais sobre o autor
